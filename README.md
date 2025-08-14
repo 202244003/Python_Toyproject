@@ -1,5 +1,6 @@
-# Python Toy Project - LGU+ 8기 윤예빈
+# LG U+ WHY NOT SW 8기 - 윤예빈
 
+# Python Toy Project
 ## 프로젝트 개요
 
 ### 주제
