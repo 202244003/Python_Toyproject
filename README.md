@@ -9,6 +9,9 @@
 - 기본 캘린더 기능 + 일정 관리
 - 파일에 저장 및 불러오기
 
+### 사용 기술
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 ### 기능
 
 1. 캘린더 기본 기능
